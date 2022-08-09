@@ -1,0 +1,3 @@
+#Weather App In AndroidStudio
+This is weather app which uses open weather api and it can fetch the weather of your current location or any particular city.
+
